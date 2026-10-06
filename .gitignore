@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+sdkconfig.old
+managed_components/
+dependencies.lock
+
+# Logs
+*.log
+net_log.txt
+
+# OS & Editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Binary dumps & partitions
+*.bin
+*.dump
+
